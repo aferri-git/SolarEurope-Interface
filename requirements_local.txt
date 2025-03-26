@@ -1,0 +1,47 @@
+# General
+ipykernel
+jupyter
+jupyter-console
+jupyter-events
+jupyter-lsp
+jupyter_client
+jupyter_core
+jupyter_server
+jupyter_server_terminals
+jupyterlab
+jupyterlab_pygments
+jupyterlab_server
+jupyterlab_widgets
+
+# Core packages
+numpy
+pandas
+matplotlib
+nltk
+colorama
+datetime
+python-dotenv
+PyPDF2
+
+# Models
+scikit-learn
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+transformers
+tokenizers
+
+# API
+fastapi
+pytz
+uvicorn
+python-multipart
+
+# Front-end
+streamlit
+requests
+
+# Testing
+pytest
